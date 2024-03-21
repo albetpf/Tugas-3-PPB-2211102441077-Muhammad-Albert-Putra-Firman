@@ -1,0 +1,1 @@
+ C:\\Users\\ASUS\\Downloads\\tugas\\PPB\\.dart_tool\\flutter_build\\2ea8a16047142b262927dffd8ee5c127\\native_assets.yaml: 
